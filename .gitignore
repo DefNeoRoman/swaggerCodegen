@@ -1,0 +1,18 @@
+
+Будет удалено .idea/
+Будет удалено spring-openapi-generator-api-client/.openapi-generator-ignore
+Будет удалено spring-openapi-generator-api-client/.openapi-generator/
+Будет удалено spring-openapi-generator-api-client/build.sbt
+Будет удалено spring-openapi-generator-api-client/docs/
+Будет удалено spring-openapi-generator-api-client/git_push.sh
+Будет удалено spring-openapi-generator-api-client/gradle/
+Будет удалено spring-openapi-generator-api-client/target/
+Будет удалено spring-swagger-codegen-api-client/.swagger-codegen/
+Будет удалено spring-swagger-codegen-api-client/build.sbt
+Будет удалено spring-swagger-codegen-api-client/git_push.sh
+Будет удалено spring-swagger-codegen-api-client/gradle/
+Будет удалено spring-swagger-codegen-app/target/
+Будет удалено spring-openapi-generator-api-client/spring-openapi-generator-api-client.iml
+Будет удалено spring-swagger-codegen-api-client/spring-swagger-codegen-api-client.iml
+Будет удалено spring-swagger-codegen-app/spring-swagger-codegen-app.iml
+Будет удалено spring-swagger-codegen.iml
